@@ -726,6 +726,10 @@ img {
   background-color: #404bbf;
 }
 
+.comment-field {
+  margin-bottom: 16px;
+}
+
 .modal-checkbox {
   margin-bottom: 24px;
 }
